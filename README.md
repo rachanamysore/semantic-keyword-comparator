@@ -21,11 +21,13 @@ You are free to use, modify, or extend this project, give proper attribution to 
 
 ## Folder Structure
 
+```
 semantic-keyword-comparator/
 ├── semantic-keyword-comparator.ipynb # Main notebook
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Git ignore rules
+```
 
 
 ## Installation
@@ -35,6 +37,7 @@ semantic-keyword-comparator/
    ```bash
    git clone https://github.com/rachanamysore/semantic-keyword-comparator.git
    cd semantic-keyword-comparator
+  
    
 2. Install the required libraries:
 pip install -r requirements.txt
