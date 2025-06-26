@@ -48,6 +48,7 @@ Set your own website URL and domain keyword list (or use the provided defaults).
 Run all cells to extract keywords, compute semantic similarity, and view results.
 
 Technologies Used:
+
 a. Python
 
 b. Google Colab / Jupyter Notebook
@@ -66,14 +67,14 @@ h. Requests
 
 i. Seaborn & Matplotlib (Visualization)
 
-Example Website
+Example Website:
 This project uses Cryoshelter as an example website for keyword extraction and comparison.
 
-Credits
+Credits:
 1. SimCSE Model: princeton-nlp/sup-simcse-bert-base-uncased
 2. Keyword extraction powered by: KeyBERT
 3. Website content used for educational purposes only: Cryoshelter
 
-License
+License:
 This project is released under the MIT License.
 You may reuse, modify, or distribute this project freely with appropriate attribution.
