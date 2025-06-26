@@ -1,0 +1,9 @@
+nltk
+keybert
+transformers
+torch
+beautifulsoup4
+requests
+seaborn
+matplotlib
+pandas
