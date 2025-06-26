@@ -49,13 +49,21 @@ Run all cells to extract keywords, compute semantic similarity, and view results
 
 Technologies Used:
 a. Python
+
 b. Google Colab / Jupyter Notebook
+
 c. KeyBERT (Keyword Extraction)
+
 d. SimCSE (Semantic Sentence Embeddings)
+
 e. HuggingFace Transformers
+
 f. PyTorch
+
 g. BeautifulSoup
+
 h. Requests
+
 i. Seaborn & Matplotlib (Visualization)
 
 Example Website
